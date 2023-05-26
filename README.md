@@ -8,7 +8,11 @@
 ## Introduction :raised_hands:
 
 Hi, I am trying to become a nice developer😎
+<br/>
+<br/>
+![Jinmozzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiinmozzi&show_icons=true&theme=ayu-mirage&hide=stars,issues)
 <br/><br/><br/>
+[![Jimozzi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jiinmozzi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=demo&langs_count=10&&exclude_repo=html-css,Scheduler&snulion-seminar/html-css-js&hide=scss,css,html)](https://github.com/jiinmozzi)
 
  <!--기술스택-->
 
@@ -51,7 +55,3 @@ Hi, I am trying to become a nice developer😎
 
  <br/>
  <br/>
-
-![Jinmozzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiinmozzi&show_icons=true&theme=ayu-mirage&hide=stars,issues)
-
-[![Jimozzi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jiinmozzi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=demo&langs_count=10&&exclude_repo=html-css,Scheduler&snulion-seminar/html-css-js&hide=scss,css,html)](https://github.com/jiinmozzi)
